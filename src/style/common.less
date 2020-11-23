@@ -1,0 +1,63 @@
+// @colorA:'red';
+// div{
+//     color:@colorA
+// } 
+@import "./default.less";
+@import "./loading.less"; //导入loading.less文件
+
+// 清除li 标签前面的点点
+ul, li {
+  list-style: none;
+}
+
+// 清除左右浮动
+.clearfix {
+  &:after {
+    content: " ";
+    clear: both;
+    display: block;
+    visibility: hidden;
+  }
+}
+
+.container {
+  background-color :#001529;
+  .nav-left {
+    width: 15%;
+    min-width: 180px;
+    color: #ffffff;
+    height: calc(100vh);
+    background-color: #001529;
+    // background-color:	WhiteSmoke;
+  }
+
+  .main {
+    height: calc(100vh);
+    background-color: @colorL;
+    // background-color:Gainsboro;
+    overflow: auto;
+  }
+
+  .content {
+    position: relative;
+    padding: 20px;
+    background:Gainsboro
+  }
+}
+
+.content-wrap {
+  // background: #ffffff;
+  background:Gainsboro;
+  border: 1px solid #e8e8e8;
+  margin-top: -3px;
+
+  .ant-table-wrapper {
+    margin-left: -1px;
+    margin-right: -2px;
+  }
+}
+.operate-wrap{
+  button{
+    margin-right: 10px;
+  }
+}

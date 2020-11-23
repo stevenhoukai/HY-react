@@ -1,0 +1,25 @@
+{
+    "home-slogan" : "欢迎来到会员系统",
+
+    "header-showlang":"语言",
+    "header-welcome":"你好 - 欢迎",
+    "header-logout":"注销",
+    "header-infocenter":"用户个人信息",
+    "header-corp":"所属公司",
+    "header-chgpwd":"修改密码",
+
+    "left-title":"会 员 系 统",
+    "left-menulang":"zh",
+
+    "MSG":"你好世界",
+    "button-create":"新增",
+    "button-edit":"修改",
+
+    "commons-query":"查询",
+    "commons-reset":"重置"
+
+
+
+    
+}
+    

@@ -1,0 +1,21 @@
+{
+    "home-slogan" : "歡迎來到會員管理系統",
+
+    "header-showlang":"語言",
+    "header-welcome":"你好 - 歡迎",
+    "header-logout":"登出",
+    "header-infocenter":"用戶個人信息",
+    "header-corp":"所屬公司",
+    "header-chgpwd":"修改密碼",
+
+    "left-title":"會 員 管 理",
+    "left-menulang":"tw",
+
+    "MSG":"你好世界",
+    "button-create":"新增",
+    "button-edit":"修改",
+
+    "commons-query":"查詢",
+    "commons-reset":"重置"
+
+}

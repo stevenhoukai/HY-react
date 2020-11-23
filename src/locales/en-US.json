@@ -1,0 +1,22 @@
+{
+    "home-slogan" : "Welcome To Customer Manage",
+
+    "header-showlang":"Lang",
+    "header-welcome":"Hello - Welcome",
+    "header-logout":"Logout",
+    "header-infocenter":"User Information",
+    "header-corp":"Corp",
+    "header-chgpwd":"Change Password",
+
+    "left-title":"Customer Manage",
+    "left-menulang":"us",
+
+    "MSG":"hello world",
+    "button-create":"Create",
+    "button-edit":"edit",
+
+    "commons-query":"Search",
+    "commons-reset":"Reset"
+}
+    
+
