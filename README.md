@@ -16,7 +16,7 @@
 
 页面展示：
 
-![](images\2.png)
+![](https://github.com/stevenhoukai/HY-react/blob/main/images/2.png)
 
-![](images\1.png)
+![](https://github.com/stevenhoukai/HY-react/blob/main/images/1.png)
 
